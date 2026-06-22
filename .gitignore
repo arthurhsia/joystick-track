@@ -1,0 +1,17 @@
+# Raw data — not versioned
+data/
+*.mat
+
+# Additional / old figures — local only
+additional/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Misc local files
+README_joystick_track_dataset_notes.docx
+ref/~$*
